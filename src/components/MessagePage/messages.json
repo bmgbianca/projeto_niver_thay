@@ -1,0 +1,190 @@
+{
+  "messages": [
+    {
+      "type": "video",
+      "src": "./mensagens/bianca.mp4",
+      "picture": "./fotos/bianca.jpeg",
+      "person": "Bianca"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/taina.mp4",
+      "picture": "./fotos/taina.jpeg",
+      "person": "Tainá (dupla)"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/priscis.mp4",
+      "picture": "./fotos/priscis.jpeg",
+      "person": "Priscilittle"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/brubru.mp4",
+      "picture": "./fotos/brubru.jpeg",
+      "person": "Brubru"
+    },
+    {
+      "type": "text",
+      "src": "Parabéns, plimaaaaaaaa! Muita saúde, muito sucesso, muita paciência pra aguentar o Wilow, kkkkk! E que Deus te abençõe muito! Te amo muitoooooo e bora comemorar!! ❤️",
+      "picture": "./fotos/roberta.jpeg",
+      "person": "Roberta"
+    },
+    {
+      "type": "text",
+      "src": "Parabéns, minha filha. Que Deus te ilumine sempre. Obrigado pelo privilégio de ser seu Pai. Amo você!",
+      "picture": "./fotos/papai.jpeg",
+      "person": "Papai"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/braulio.MP4",
+      "picture": "./fotos/braulio.jpeg",
+      "person": "Braulio"
+    },
+    {
+      "type": "text",
+      "src": "Amorzinho da minha vidinha, que presente imenso é a sua amizade pra chamar de minha! Que prazer saber que temos esta conexão tão genuína, verdadeira, leve, sem cobranças e pura, e sei que isto só é possível por causa da compreensão semelhante que temos sobre o amor e a força dos laços. Você é muito especial. Obrigada por cada momento compartilhado, cada conversa, cada abraço apertado, cada sorriso, cada saudade e cada “só você vai entender isso” que compartilhamos em todos esses anos. Que a vida seja sempre tão boa com você quanto você é com ela. Te amo e te admiro infinito! ♥️",
+      "picture": "./fotos/carolmedeiros.jpeg",
+      "person": "Carol (amorzinho da sua vida :) )"
+    },
+    {
+      "type": "text",
+      "src": "Feliz aniversário, Thay! Desejo a você tudo de bom, muita saúde e paz! Que este ano seja apenas o início de um ciclo repleto de coisas boas para você e para as pessoas que você ama. Muita coragem e sorte, pois o resto você já tem... você é muito especial! Você pode sempre contar comigo para qualquer coisa, estou sempre por aqui. Grande beijo",
+      "picture": "./fotos/shira.jpg",
+      "person": "Shira"
+    },
+    {
+      "type": "text",
+      "src": "Parabéns minha princesa!!! Seja muito feliz, Deus te abençõe ricamente sua caminhada, continue sendo sempre essa pessoa de coração iluminado. Te amo até o infinito ❣ ❣",
+      "picture": "./fotos/mamae.jpeg",
+      "person": "Mamãe"
+    },
+    {
+      "type": "text",
+      "src": "Parabéns para esta linda e delicada norinha! Queria deixar registrado aqui o quanto você foi importante na minha história até aqui...me ajudou a enfrentar uma locura que eu mesma decidi experimentar em minha vida, que foi a primeira e última vez do meu brizadeiro! 😬😬. Se não fosse você, não sei o que seria de mim! 'Sogrinha conta comigo: 1,2,3...'. Você foi o máximo! Hoje, racho de rir e agradeço por você estar perto de mim nessa loucura. Nunca vou esquecer o tanto que você foi importante nesse momento... obrigada, Thay! Muita saúde, serenidade, amor, viagens pelo nosso mundo a fora! Te amo, norinha! 🙏🙏",
+      "picture": "./fotos/sogrinha.jpeg",
+      "person": "Sogrinha"
+    },
+    {
+      "type": "text",
+      "src": "Thay, vou resumir os elogios em: VOCÊ É MARAVILHOSA! Assim tenho espaço pra reforçar que só escorreguei porque o chão tava molhado. Parabéns! Que possamos comemorar muitas e muitas vezes de penetra numa festa e depois andando descalços pelo shopping. Com amor, Lilinho.",
+      "picture": "./fotos/paulinho.jpeg",
+      "person": "Lilinho"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/farsaetex.mp4",
+      "picture": "./fotos/farsaetex.jpeg",
+      "person": "Farsa & Tex"
+    },
+    {
+      "type": "text",
+      "src": "Miga, feliz seu dia! 🥳 Que sua nova volta ao Sol seja repleta de muita luz, alegria e prosperidade. Obrigada por ser essa amiga tão especial e tão companheira. O que o Scup uniu o Reveioga abençoou e nada agora separa!!! Hahaha! Te amo muito e não vejo a hora de nos vermos novamente. 🥰",
+      "picture": "./fotos/brunoronha.jpeg",
+      "person": "Bru noronha (é @bxnoronha em todas as redes 😂)"
+    },
+    {
+      "type": "text",
+      "src": "Oi, amiiii!! Chegou seu diaaa 🎉 Feliz novo ciclo! Muita paz, luz, saúde, sucesso, amor e muitas conquistas! Você é uma pessoa de luz e merece o melhor, sempre! Obrigada por ser minha parceira de dia a dia, de viagens pela empresa, dos almoços, das festinhas e dos desabafos... saudades de viver isso tudo de novo (tchau, coronga! Já deu!). Aproveite muito este novo ciclo que se inicia e acredite que será incrível, porque será 🙏🏻❤️. E que, em 2021, possamos aproveitar mais momentos presenciais 🥳 Felicidades, ami! 😘❤️ Beijos.",
+      "picture": "./fotos/brunovais.jpeg",
+      "person": "Bru Novais"
+    },
+    {
+      "type": "text",
+      "src": "Thay, você é simplesmente maravilhosa, e seria impossível o trabalho ser tão legal sem você. Com um senso de humor maravilhoso, você transformou situações complicadas de trabalho em uma forma gostosa de enfrentar os desafios. Eu amo ver o tanto que você se dedica e é amiga. Sou grata todos os dias por trabalharmos juntas. ❤️ Espero que a gente siga juntas por muito tempo ainda; vamos continuar aprendendo e conquistando juntas. Obrigada por ser uma amiga dentro e fora do trabalho. Obrigada pela parceria. Você é simplesmente incrível! ❤️ 🦄",
+      "picture": "./fotos/babivallim.jpeg",
+      "person": "Babi Vallim"
+    },
+    {
+      "type": "text",
+      "src": "Oi, Maravigold! FELIZ VIDA! Amiga, feliz aniversário, feliz novo ciclo... e feliz sou eu (e MUITO) em ter você na minha vida! Sou muito grata pela sua vida e pela nossa amizade, que nem tem tanto tempo assim, mas que eu quero levar pra eternidade! Que você continue essa pessoa maravilhosa, com essa energia incrível, essa luz que é só sua e com esse coração gigante que você tem! Espero que você aproveite seu dia, sendo mãe de pet que é sua principal função atualmente, hahahahahaha! Te amo muito amiga, muito obrigada por tudo, FELIZ VIDA ❤️",
+      "picture": "./fotos/danilavagnoli.jpeg",
+      "person": "Dani Lavagnoli"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/ana.mp4",
+      "picture": "./fotos/ana.jpeg",
+      "person": "Ana"
+    },
+    {
+      "type": "text",
+      "src": "Amiga, maravigold!!! Enfim, o grande dia chegou! Que pena não podermos comemorar como vc merece, mas saiba que, independentemente da distância física, estou aqui torcendo por você sempre, desejando coisas boas e vibrando a cada conquista sua. Espero que seu dia seja incrível e cheio de muitas surpresas! Sei que deve estar pensando: “Ah, estou ficando velha.”, mas, como eu já disse (e vou repetir, rs), a alternativa é muito pior. Então, curta cada instante com todo seu coração, se jogue e seja muito feliz. Feliz aniversário, conte comigo!!! 😘❤️ Beijooos!",
+      "picture": "./fotos/jaci.jpeg",
+      "person": "Jaci Cardoso"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/vitoria.mp4",
+      "picture": "./fotos/vitoria.png",
+      "person": "Vitória Arrais"
+    },
+    {
+      "type": "text",
+      "src": "Thay, adoro que você topa todas as furadas e, ao mesmo tempo, é bem seleta no que se mete. Obrigada por ser divertida, alto astral e rabugentinha ao mesmo tempo. Amo tomar uma cervejinha e falar mal ou bem da vida e, em qualquer uma das alternativas, dar risada. A gente adora essa sua personalidade maravilhosa, divertida. Escolhi uma foto espontânea em que eu só apareço metade, mas acho linda! Te amo, amiga 💕💕💕",
+      "picture": "./fotos/quel.jpeg",
+      "person": "Quel"
+    },
+    {
+      "type": "text",
+      "src": "Thay, feliz aniversário, amiga! Muito feliz de poder dividir este dia especial contigo. Queria estar pertinho de você, dando vários abraços, então espero que sinta todo meu carinho através destas palavras. Amiga risonha, alto astral, que, com o humor, deixa o ambiente mais leve. Saudades de falar besteira com você e as meninas. Fico agradecida de poder acompanhar sua trajetória, mulher forte, mãe de pet, namorada dedicada, pessoa que valoriza a família, amiga carinhosa... é assim que te vejo. Aproveita bastante seu dia, e que este ano possa vir com mais leveza para nós, que possamos ir atrás de nossos sonhos e construir o que queremos para nossas vidas. E vamos que vamos….mesmo a distância, mas juntas em pensamento. Beijos.",
+      "picture": "./fotos/marina.jpeg",
+      "person": "Marina"
+    },
+    {
+      "type": "text",
+      "src": "Eu não me lembro de ter visto a Thay brava com a vida, rabugenta ou triste. Sempre a vi com muita energia e perguntando 'E aííí, Lice, tudo bem com você?'. Vejo uma mulher linda, sorridente, do bem, super empática, amiga, parceira, engraçada... um mulherão da porra brincalhona. 🥰 Tenho um carinho enorme por você, Thayzinha. 😊 Te desejo todo o amor deste mundo, sonhos e mais sonhos para serem realizados...porque você é muito merecedora! Saudades de dançar e descer até o chão com você.",
+      "picture": "./fotos/alice.jpeg",
+      "person": "Alice"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/deia.mp4",
+      "picture": "./fotos/deia.jpeg",
+      "person": "Deia"
+    },
+    {
+      "type": "text",
+      "src": "Thayyy, feliz seu dia! Que seu novo ano seja de muita felicidade, amor e com vacininha no bumbum pra gente poder comemorar juntos, comer pizza da Cidade Luz, fofocar e jogar Mario Party enquanto pede pra Brubru gritar mais baixo. Escolhi esta foto que a gente tá belíssima e com o skincare super em dia, mas também pra recordar onde a gente se conheceu: naquela firma super normal - onde coisas super normais aconteciam –, mas que colocou sabruyane na minha vida. ❤ Que hoje você se sinta muito abraçada de longe e todo o carinho dessa galera que te adora muito, e que você continue esse ser divertido e irônico que eu particularmente AMO! Desejando muita felicidade, Willow, amor e lanchos mil de longe. Saudades. ❤",
+      "picture": "./fotos/gabipinguela.jpeg",
+      "person": "Gabi Pinguela"
+    },
+    {
+      "type": "text",
+      "src": "Oi, mamãe, sou eu, a Dorinha. Eu quero te agradecer por você ter me dado um lar tão feliz, com muito amor e com caminha macia para eu dormir (por mais que vc ameace que vou voltar a dormir no papelão, só porque eu como a caminha). Eu espero continuar vendo seus sorrisos felizes quando tento te lamber ou quando te peço carinho e que você não fique brava comigo quando eu quiser brincar com algo novo, rs. Te amo mamãe, obrigada por esta vida ótima de catiora que você me dá e pelos morrobones. ❤️ Espero te fazer muito feliz como você me faz!",
+      "picture": "./fotos/dorinha.jpeg",
+      "person": "Dorinha"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/william.mov",
+      "picture": "./fotos/will.jpg",
+      "person": "Willow"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/peco.mp4",
+      "picture": "./fotos/peco.jpeg",
+      "person": "Peco"
+    },
+    {
+      "type": "text",
+      "src": "Amada, amiga! Apenas lhe desejo saúde, criatividade e vontade. O resto você conquistará, assim como conquista a todos que têm o prazer de conviver com você, ver seu sorriso e receber sua luz. Com muito amor, Maíra.",
+      "picture": "./fotos/maira.jpeg",
+      "person": "Maíra"
+    },
+    {
+      "type": "text",
+      "src": "Duds, você já tem quase trinta, acabou a brincadeira: é jovem pra ser velha e velha pra ser jovem! Quando desejamos mais realizações, esquecemos de pontuar o que você atingiu nestes TRINTA ANOS: ser um ser humano foda, incrível, feminista, um exemplo de mulher, que pega o desespero do começar qualquer coisa e torna em força para seguir. Brilhou de uniforme verde no Brasília, rezou no Jesus Maria José, reafirmou a loucura na USP.... Modelou, teve grupo de música, fez churrasco, ficou bêbada, deu trabalho, deu pt, deu...  Estivemos sempre um ao lado do outro: vendo De Repente TRINTA, chorando, bebendo, sarrando a raba e reafirmando nossas convicções, nossa parceria, nossa irmandade! Eu só sei que não poderia pedir alguém mais incrível como irmã. Te admiro, vou continuar torcendo, te desejando sempre tudo que for de mais nobre, pleno, sincero e de luz. Bem vinda aos TRINTA! Quando eu chegar nessa idade, você me conta como é hahahaha! Te amo!",
+      "picture": "./fotos/junior.jpeg",
+      "person": "Junior"
+    },
+    {
+      "type": "video",
+      "src": "./mensagens/je.mov",
+      "picture": "./fotos/jessica.jpg",
+      "person": "Zéssica"
+    }
+  ]
+}
